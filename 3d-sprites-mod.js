@@ -1,7 +1,7 @@
 (function (Scratch) {
     'use strict';
 
-    class 3eD_Sprites_Mod {
+    class ThreeD_Sprites_Mod {
         getInfo() {
             return {
                 id: '3dspritesmod', 
